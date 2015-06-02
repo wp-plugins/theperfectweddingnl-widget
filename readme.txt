@@ -1,6 +1,6 @@
 === Plugin Name ===
-Contributors: 14441060
-Tags: reviews, rating
+Contributors: ThePerfectWedding
+Tags: reviews, rating, theperfectwedding
 Requires at least: 4.2.2
 Tested up to: 4.2.2
 Stable tag: 1.0
