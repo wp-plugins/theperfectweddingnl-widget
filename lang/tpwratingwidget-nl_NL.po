@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ThePerfectWedding.nl Rating Widget\n"
+"POT-Creation-Date: 2015-05-28 12:14+0100\n"
+"PO-Revision-Date: 2015-05-28 12:14+0100\n"
+"Last-Translator: Sem Goedknegt <sem@ivaldi.nl>\n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/tpwAdminPanel.php:20 widget/tpwWidget.php:14 widget/tpwWidget.php:43
+msgid "ThePerfectWedding.nl Widget"
+msgstr "ThePerfectWedding.nl Widget"
+
+#: admin/tpwAdminPanel.php:21
+msgid "TPW Widget Options"
+msgstr "TPW Widget opties"
+
+#: admin/tpwAdminPanelTemplate.php:21
+msgid "Settings were successfully updated."
+msgstr "Instellingen zijn succesvol aangepast."
+
+#: admin/tpwAdminPanelTemplate.php:37
+msgid "ThePerfectWedding.nl Widget Options"
+msgstr "ThePerfectWedding.nl Widget opties"
+
+#: admin/tpwAdminPanelTemplate.php:40
+msgid ""
+"Send an e-mail to <a href=\"mailto:development@theperfectwedding.nl"
+"\">development@theperfectwedding.nl</a> to apply for an access key. This "
+"unique key is only shared with a company profile owner on ThePerfectWedding."
+"nl"
+msgstr ""
+"Stuur een e-mail naar <a href=\"mailto:development@theperfectwedding.nl"
+"\">development@theperfectwedding.nl</a> om de toegangssleutel te ontvangen. "
+"Deze sleutel is uniek en wordt alleen aan de eigenaar van het profiel "
+"verstrekt. Vul de sleutel in en kies voor een donkere of lichte variant om "
+"op je website weer te geven."
+
+#: admin/tpwAdminPanelTemplate.php:41
+msgid "Options"
+msgstr "Opties"
+
+#: admin/tpwAdminPanelTemplate.php:46
+msgid "Your Access Key"
+msgstr "Jouw toegangssleutel"
+
+#: admin/tpwAdminPanelTemplate.php:51
+msgid "An example of a correct key"
+msgstr "Voorbeeld van een correcte sleutel"
+
+#: admin/tpwAdminPanelTemplate.php:58 admin/tpwAdminPanelTemplate.php:62
+msgid "Your Widget Style"
+msgstr "Stijl van de widget"
+
+#: admin/tpwAdminPanelTemplate.php:63 admin/tpwAdminPanelTemplate.php:65
+msgid "Light"
+msgstr "Licht"
+
+#: admin/tpwAdminPanelTemplate.php:67 admin/tpwAdminPanelTemplate.php:68
+msgid "Dark"
+msgstr "Donker"
+
+#: admin/tpwAdminPanelTemplate.php:77
+msgid "Save Options"
+msgstr "Instellingen opslaan"
+
+#: tpw.php:21
+msgid "Settings"
+msgstr "Instellingen"
+
+#: widget/tpwWidget.php:15
+msgid ""
+"With this widget you’re able to share the reviews you gathered on your own "
+"Wordpress website - The widget contains the right mark-up to display “review "
+"stars” in the Google search result."
+msgstr ""
+"Met deze widget deel je gemakkelijk de ervaringen van je bedrijfsprofiel op "
+"je eigen Wordpress website - De widget bevat de juiste mark-up om ook "
+"“review-sterren” in de Google resultaten te ontvangen"
+
+#: widget/tpwWidgetAdminFormTemplate.php:2
+msgid "Widget Title:"
+msgstr "Titel van widget:"
+
+#: widget/tpwWidgetFrontendTemplate.php:12
+msgid "out of"
+msgstr "uit"
+
+#: widget/tpwWidgetFrontendTemplate.php:14
+msgid "reviews"
+msgstr "ervaringen"
+
+#~ msgid "TPWWidget"
+#~ msgstr "TPWWidget"
+
+#~ msgid "ThePerfectWedding.nl Rating"
+#~ msgstr "ThePerfectWedding.nl Rating"
+
+#~ msgid "TPW Rating Options"
+#~ msgstr "TPW Rating opties"
+
+#~ msgid "TPWRatingWidget"
+#~ msgstr "TPWRatingWidget"
+
+#~ msgid "ThePerfectWedding.nl Ratings Widget"
+#~ msgstr "ThePerfectWedding.nl Ratings Widget"
+
+#~ msgid "Show your company rating from ThePerfectWedding.nl on your website."
+#~ msgstr "Toon uw beoordelingscijfer van ThePerfectWedding.nl op uw website."
+
+#~ msgid "Security Options"
+#~ msgstr "Beveiligingsopties"
+
+#~ msgid "Your Access Key:"
+#~ msgstr "Uw unieke sleutel:"
+
+#~ msgid "An example of a correct key:"
+#~ msgstr "Een voorbeeld van een correcte sleutel:"
+
+#~ msgid "TPW Rating Widget Options"
+#~ msgstr "TPW Rating Widget opties"
